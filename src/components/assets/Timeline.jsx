@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import timelineElements from "./TimelineElements";
+import timelineElements from "./timelineElements";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
